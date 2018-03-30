@@ -1,0 +1,37 @@
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.Cache
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+c:\users\şule kiliç\documents\visual studio 2017\Projects\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\Birkan\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.Cache
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\veriYapilari-master\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.Cache
